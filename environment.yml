@@ -6,3 +6,5 @@ dependencies:
   - beautifulsoup4
   - ipywidgets
   - jupyter
+  - polars
+  - pyproj
