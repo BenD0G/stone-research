@@ -1,0 +1,8 @@
+name: quarries
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - beautifulsoup4
+  - ipywidgets
+  - jupyter
